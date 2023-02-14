@@ -48,6 +48,17 @@ store : page 내에서 관리 되는 상태 데이터 \
 templates : page layout (only style) \
 PageRouterManager : page router 관리 \
 
+install
+```javascript
+npm install
+```
+
+start
+```javascript
+npm run dev
+```
+
+
 
 
 
